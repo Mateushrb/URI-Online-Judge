@@ -2,7 +2,7 @@ package Iniciante;
 
 import java.util.Scanner;
 
-class Main {
+class Main_1001 {
 
     public static void main(String[] args) {
 
